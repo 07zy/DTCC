@@ -1,1 +1,1 @@
-#Deep Temporal Contrastive Clustering (DTCC)
+=Deep Temporal Contrastive Clustering (DTCC)
