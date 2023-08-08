@@ -15,6 +15,6 @@ Usage
 ====
 You can run the command:
 
-*Train: python 
+*Train: python dtcc.py
 
 
