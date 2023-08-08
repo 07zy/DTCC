@@ -14,6 +14,7 @@ Dependency
 Usage
 ====
 You can run the command:
-*Train: pyhton 
+
+*Train: python 
 
 
