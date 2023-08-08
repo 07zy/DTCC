@@ -7,5 +7,13 @@ This is a Tensorflow implementation of the paper.
 Dependency
 =====
 * python>=3.7
+* tensorflow-gpu=2.4.0
+* numpy=1.19.5
+* scipy=1.7.3
+
+Usage
+====
+You can run the command:
+*Train: pyhton 
 
 
